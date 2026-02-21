@@ -58,6 +58,43 @@ activities = {
         "participants": ["ethan@mergington.edu"]
         },
     "Chess Club": {
+        "name": "Chess Club",
+            },
+            "Basketball Team": {
+                "description": "Competitive basketball team for intramural games",
+                "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+                "max_participants": 15,
+                "participants": ["marcus@mergington.edu"]
+            },
+            "Tennis Club": {
+                "description": "Learn tennis skills and participate in matches",
+                "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:00 PM",
+                "max_participants": 10,
+                "participants": ["alexis@mergington.edu"]
+            },
+            "Drama Club": {
+                "description": "Perform in school plays and theatrical productions",
+                "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+                "max_participants": 25,
+                "participants": ["sarah@mergington.edu", "james@mergington.edu"]
+            },
+            "Painting Studio": {
+                "description": "Create visual art with painting, drawing, and mixed media",
+                "schedule": "Mondays and Fridays, 3:30 PM - 5:00 PM",
+                "max_participants": 18,
+                "participants": ["isabella@mergington.edu"]
+            },
+            "Debate Team": {
+                "description": "Develop argumentation and public speaking skills",
+                "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+                "max_participants": 16,
+                "participants": ["alex@mergington.edu", "jordan@mergington.edu"]
+            },
+            "Science Club": {
+                "description": "Explore scientific concepts through experiments and projects",
+                "schedule": "Tuesdays, 3:30 PM - 4:45 PM",
+                "max_participants": 22,
+                "participants": ["ryan@mergington.edu"]
         "description": "Learn strategies and compete in chess tournaments",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 12,
